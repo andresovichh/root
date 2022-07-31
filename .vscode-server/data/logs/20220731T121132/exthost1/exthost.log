@@ -4873,3 +4873,6 @@ Error: No Project.
 	at ChildProcess.emit (node:events:390:28)
 	at emit (node:internal/child_process:917:12)
 	at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-07-31 15:12:28.480] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 15:12:36.737] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 15:12:49.280] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
