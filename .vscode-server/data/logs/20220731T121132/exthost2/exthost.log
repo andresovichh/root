@@ -1,0 +1,23 @@
+[2022-07-31 19:13:01.150] [exthost] [info] Extension host with pid 15307 started
+[2022-07-31 19:13:01.582] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/86c01fb9d4a9c4a31eb0db3acffbbe78/vscode.lock': Lock acquired.
+[2022-07-31 19:13:04.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-31 19:13:04.495] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-31 19:13:05.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-31 19:13:06.003] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-31 19:13:06.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-31 19:13:06.513] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: true, activationEvent: '*'
+[2022-07-31 19:13:07.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-31 19:13:11.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-31 19:13:12.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-31 19:13:13.822] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-07-31 19:13:14.940] [exthost] [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp
+[2022-07-31 19:13:14.946] [exthost] [info] Not activating extension 'ms-vscode.cmake-tools': Timed out while searching for 'workspaceContains' pattern */CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt
+[2022-07-31 19:13:14.947] [exthost] [info] Not activating extension 'puppet.puppet-vscode': Timed out while searching for 'workspaceContains' pattern **/*.pp,**/*.epp,**/Puppetfile,**/lib/puppet
+[2022-07-31 19:13:14.949] [exthost] [info] Not activating extension 'timonwong.shellcheck': Timed out while searching for 'workspaceContains' pattern **/.shellcheckrc
+[2022-07-31 19:13:17.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:17.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:17.913] [exthost] [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:29.082] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:29.768] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot-nightly, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:31.881] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 19:13:37.639] [exthost] [info] Eager extensions activated

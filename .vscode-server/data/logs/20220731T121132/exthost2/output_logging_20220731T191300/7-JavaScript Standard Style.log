@@ -1,0 +1,15 @@
+[Info  - 7:13:33 PM] JavaScript Standard Style server is running.
+[Info  - 7:13:37 PM] 
+Failed to load the JavaScript Standard Style library for the document /root/src/routes/tutorial.routes.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder root
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder root by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 7:14:04 PM] 
+Failed to load the JavaScript Standard Style library for the document /root/src/routes/tutorial.routes.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder root
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder root by executing the 'Disable JavaScript Standard Style' command.

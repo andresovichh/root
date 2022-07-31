@@ -2,4 +2,4 @@
 	email = ahenderson.holberton@gmail.com
 	name = andresovichh
 [credential]
-	helper = "!f() { /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/node /tmp/vscode-remote-containers-075b8db05df2f7c16a7e2eb06f0f7a0b431cc3fe.js $*; }; f"
+	helper = "!f() { /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/node /tmp/vscode-remote-containers-d16440a7fcbc46226b1f317368f960394d67f930.js $*; }; f"

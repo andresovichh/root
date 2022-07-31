@@ -1,0 +1,23 @@
+[2022-07-31T19:13:13.680Z] Log level: Info
+[2022-07-31T19:13:13.774Z] [info] Validating found git in: git
+[2022-07-31T19:13:14.701Z] [info] Using git  from git
+[2022-07-31T19:13:15.019Z] > git rev-parse --show-toplevel [179ms]
+[2022-07-31T19:13:15.399Z] > git rev-parse --git-dir --git-common-dir [282ms]
+[2022-07-31T19:13:15.440Z] [info] Open repository: /root
+[2022-07-31T19:13:17.103Z] > git check-ignore -v -z --stdin [391ms]
+[2022-07-31T19:13:35.288Z] > git status -z -uall [19788ms]
+[2022-07-31T19:13:36.130Z] > git check-ignore -v -z --stdin [2993ms]
+[2022-07-31T19:13:38.042Z] > git show --textconv :src/routes/tutorial.routes.js [151ms]
+[2022-07-31T19:13:38.061Z] > git ls-files --stage -- /root/src/routes/tutorial.routes.js [123ms]
+[2022-07-31T19:13:38.111Z] > git cat-file -s 85f799b1055291b6997aeeab1c1cf0d5d0a351a8 [12ms]
+[2022-07-31T19:13:42.322Z] > git ls-files --stage -- /root/src/routes/tutorial.routes.js [18ms]
+[2022-07-31T19:13:42.344Z] > git cat-file -s 85f799b1055291b6997aeeab1c1cf0d5d0a351a8 [3ms]
+[2022-07-31T19:13:42.391Z] > git show --textconv :src/routes/tutorial.routes.js [19ms]
+[2022-07-31T19:13:48.971Z] > git check-ignore -v -z --stdin [80ms]
+[2022-07-31T19:13:51.171Z] > git check-ignore -v -z --stdin [587ms]
+[2022-07-31T19:13:51.481Z] > git check-ignore -v -z --stdin [62ms]
+[2022-07-31T19:13:52.576Z] > git check-ignore -v -z --stdin [28ms]
+[2022-07-31T19:13:54.346Z] > git check-ignore -v -z --stdin [23ms]
+[2022-07-31T19:13:56.509Z] > git check-ignore -v -z --stdin [26ms]
+[2022-07-31T19:13:57.235Z] > git check-ignore -v -z --stdin [44ms]
+[2022-07-31T19:14:46.887Z] > git remote add sand https://github.com/andresovichh/root.git [13ms]

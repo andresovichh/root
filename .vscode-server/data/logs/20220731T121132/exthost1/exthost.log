@@ -4876,3 +4876,107 @@ Error: No Project.
 [2022-07-31 15:12:28.480] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 [2022-07-31 15:12:36.737] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 [2022-07-31 15:12:49.280] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 17:20:54.848] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 17:21:26.273] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot-nightly, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 17:21:30.377] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: '*'
+[2022-07-31 17:21:38.495] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:vue'
+[2022-07-31 17:21:51.020] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 17:22:38.745] [exthost] [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-31 17:23:25.272] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: false, activationEvent: '*'
+[2022-07-31 17:26:41.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-31 18:33:30.954] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 18:34:11.818] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10020
+[2022-07-31 18:38:37.149] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10014
+[2022-07-31 18:44:26.808] [exthost] [error] [Vue.volar] provider FAILED
+[2022-07-31 18:44:27.284] [exthost] [error] Error: Request textDocument/inlayHint failed with message: Could not find source file: '/root/vue-sandbox/src/components/HeaderBar.vue.ts'.
+    at Fe (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/client.js:4:233)
+    at de (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/client.js:3:6857)
+    at Immediate.<anonymous> (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/client.js:3:6704)
+    at processImmediate (node:internal/timers:464:21)
+[2022-07-31 19:11:03.246] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10052
+[2022-07-31 19:11:40.314] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-31 19:11:40.317] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/86c01fb9d4a9c4a31eb0db3acffbbe78/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-31 19:11:42.647] [exthost] [error] Canceled: Canceled
+    at Object.L [as canceled] (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:9099
+    at Array.forEach (<anonymous>)
+    at s.dispose (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:9047)
+    at b.terminate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:97:10990)
+    at b.terminate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+    at m (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:36671)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:34616
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:22583
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at f._processReadQueue (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:21271)
+    at f.acceptFrame (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:20927)
+    at v._acceptChunk (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:18891)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:15880
+    at Socket.R (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:199:23) git.commit {"value":"vscode.git","_lower":"vscode.git"}
+[2022-07-31 19:11:42.662] [exthost] [error] Canceled: Canceled
+    at Object.L [as canceled] (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:9099
+    at Array.forEach (<anonymous>)
+    at s.dispose (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:9047)
+    at b.terminate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:97:10990)
+    at b.terminate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+    at m (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:36671)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:34616
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:22583
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at b.invoke (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at f._processReadQueue (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:21271)
+    at f.acceptFrame (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:20927)
+    at v._acceptChunk (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:18891)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:15880
+    at Socket.R (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:199:23) _vscode_delegate_cmd_l69a7uzi undefined
+[2022-07-31 19:11:44.851] [exthost] [error] Error: Stopping the server timed out
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:434882
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:526:9)
+    at processTimers (node:internal/timers:500:7)
+    at Object.e.deactivate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:701917)
+    at async Promise.all (index 7)
+    at b._deactivateAll (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:97:10669)
+[2022-07-31 19:11:45.151] [exthost] [error] Error: Stopping the server timed out
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:458627
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processTimers (node:internal/timers:497:9)
+    at Object.e.deactivate (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:721774)
+    at async Promise.all (index 9)
+    at b._deactivateAll (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:97:10669)
+[2022-07-31 19:11:45.415] [exthost] [info] Extension host with pid 248 exiting with code 0

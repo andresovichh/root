@@ -18,3 +18,363 @@
     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
 [2022-07-31 14:44:59.746] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
     at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 16:12:50.126] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 16:12:50.133] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-07-31 16:12:50.565] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-07-31 16:12:50.567] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] The client has reconnected.
+[2022-07-31 16:12:50.970] [remoteagent] [info] [127.0.0.1][d1351523][ExtensionHostConnection] The client has reconnected.
+[2022-07-31 16:43:06.018] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 17:18:35.727] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 17:18:43.782] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 17:20:23.012] [remoteagent] [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:20:23.015] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-07-31 17:20:23.016] [remoteagent] [info] Getting Manifest... equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:23.016] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:23.017] [remoteagent] [info] Getting Manifest... viktorqvarfordt.vscode-pitch-black-theme
+[2022-07-31 17:20:23.018] [remoteagent] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:23.019] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-07-31 17:20:23.020] [remoteagent] [info] Getting Manifest... franneck94.c-cpp-runner
+[2022-07-31 17:20:23.021] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-07-31 17:20:23.022] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-07-31 17:20:23.023] [remoteagent] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-07-31 17:20:23.023] [remoteagent] [info] Getting Manifest... github.copilot-nightly
+[2022-07-31 17:20:23.023] [remoteagent] [info] Getting Manifest... github.github-vscode-theme
+[2022-07-31 17:20:23.023] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2022-07-31 17:20:23.024] [remoteagent] [info] Getting Manifest... equinusocio.vsc-material-theme
+[2022-07-31 17:20:23.024] [remoteagent] [info] Getting Manifest... vadimcn.vscode-lldb
+[2022-07-31 17:20:23.025] [remoteagent] [info] Getting Manifest... josetr.cmake-language-support-vscode
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... chenxsan.vscode-standardjs
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... cweijan.vscode-mysql-client2
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... github.copilot
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... formulahendry.vscode-mysql
+[2022-07-31 17:20:23.109] [remoteagent] [info] Getting Manifest... krosf.vscode-valgrind
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... puppet.puppet-vscode
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... timonwong.shellcheck
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... 076923.python-image-preview
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-07-31 17:20:23.110] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-31 17:20:23.326] [remoteagent] [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:20:23.389] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-07-31 17:20:23.781] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:23.798] [remoteagent] [info] Installing extension: equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:23.838] [remoteagent] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:23.839] [remoteagent] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-07-31 17:20:24.358] [remoteagent] [info] Installing extension: viktorqvarfordt.vscode-pitch-black-theme
+[2022-07-31 17:20:24.397] [remoteagent] [info] Installing extension: franneck94.c-cpp-runner
+[2022-07-31 17:20:24.401] [remoteagent] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-07-31 17:20:24.476] [remoteagent] [info] Installing extension: twxs.cmake
+[2022-07-31 17:20:24.566] [remoteagent] [info] Installing extension: github.copilot-nightly
+[2022-07-31 17:20:24.574] [remoteagent] [info] Installing extension: github.github-vscode-theme
+[2022-07-31 17:20:24.695] [remoteagent] [info] Installing extension: equinusocio.vsc-material-theme
+[2022-07-31 17:20:24.715] [remoteagent] [info] Installing extension: cschlosser.doxdocgen
+[2022-07-31 17:20:24.778] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2022-07-31 17:20:25.045] [remoteagent] [info] Installing extension: vadimcn.vscode-lldb
+[2022-07-31 17:20:25.106] [remoteagent] [info] Installing extension: josetr.cmake-language-support-vscode
+[2022-07-31 17:20:25.113] [remoteagent] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-07-31 17:20:25.500] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-07-31 17:20:25.814] [remoteagent] [info] Installing extension: github.copilot
+[2022-07-31 17:20:25.821] [remoteagent] [info] Installing extension: formulahendry.vscode-mysql
+[2022-07-31 17:20:25.829] [remoteagent] [info] Installing extension: chenxsan.vscode-standardjs
+[2022-07-31 17:20:26.009] [remoteagent] [info] Installing extension: zhuangtongfa.material-theme
+[2022-07-31 17:20:26.012] [remoteagent] [info] Installing extension: krosf.vscode-valgrind
+[2022-07-31 17:20:26.016] [remoteagent] [info] Installing extension: cweijan.vscode-mysql-client2
+[2022-07-31 17:20:26.564] [remoteagent] [info] Installing extension: puppet.puppet-vscode
+[2022-07-31 17:20:26.701] [remoteagent] [info] Installing extension: timonwong.shellcheck
+[2022-07-31 17:20:26.726] [remoteagent] [info] Installing extension: ms-vscode.cmake-tools
+[2022-07-31 17:20:26.730] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-07-31 17:20:26.736] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-07-31 17:20:26.742] [remoteagent] [info] Installing extension: 076923.python-image-preview
+[2022-07-31 17:20:26.748] [remoteagent] [info] Installing extension: ms-python.python
+[2022-07-31 17:20:29.729] [remoteagent] [info] Getting Manifest... equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:31.413] [remoteagent] [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:20:31.877] [remoteagent] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-07-31 17:20:33.008] [remoteagent] [info] Downloaded extension: ms-dotnettools.vscode-dotnet-runtime /root/.vscode-server/extensionsCache/ms-dotnettools.vscode-dotnet-runtime-1.5.0
+[2022-07-31 17:20:34.191] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-07-31 17:20:34.340] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:35.832] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-07-31 17:20:36.525] [remoteagent] [info] Extension is already requested to install ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:20:36.778] [remoteagent] [info] Extension is already requested to install equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:36.781] [remoteagent] [info] Extension is already requested to install equinusocio.vsc-material-theme-icons
+[2022-07-31 17:20:36.785] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-keymap-1.0.0
+[2022-07-31 17:20:37.155] [remoteagent] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /root/.vscode-server/extensionsCache/jeff-hykin.better-cpp-syntax-1.15.19
+[2022-07-31 17:20:37.155] [remoteagent] [info] Downloaded extension: equinusocio.vsc-community-material-theme /root/.vscode-server/extensionsCache/equinusocio.vsc-community-material-theme-1.4.4
+[2022-07-31 17:20:38.862] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-07-31 17:20:39.379] [remoteagent] [info] Downloaded extension: viktorqvarfordt.vscode-pitch-black-theme /root/.vscode-server/extensionsCache/viktorqvarfordt.vscode-pitch-black-theme-1.3.0
+[2022-07-31 17:20:39.428] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-07-31 17:20:39.567] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-themes /root/.vscode-server/extensionsCache/ms-vscode.cpptools-themes-1.0.0
+[2022-07-31 17:20:39.569] [remoteagent] [info] Downloaded extension: github.github-vscode-theme /root/.vscode-server/extensionsCache/github.github-vscode-theme-6.3.2
+[2022-07-31 17:20:39.622] [remoteagent] [info] Downloaded extension: github.copilot-nightly /root/.vscode-server/extensionsCache/github.copilot-nightly-1.36.6347
+[2022-07-31 17:20:39.798] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:39.800] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-07-31 17:20:39.947] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /root/.vscode-server/extensionsCache/formulahendry.code-runner-0.11.8
+[2022-07-31 17:20:40.009] [remoteagent] [info] Downloaded extension: vadimcn.vscode-lldb /root/.vscode-server/extensionsCache/vadimcn.vscode-lldb-1.7.3
+[2022-07-31 17:20:40.507] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-07-31 17:20:40.911] [remoteagent] [info] Downloaded extension: github.copilot /root/.vscode-server/extensionsCache/github.copilot-1.36.6340
+[2022-07-31 17:20:44.459] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-07-31 17:20:45.380] [remoteagent] [info] Downloaded extension: zhuangtongfa.material-theme /root/.vscode-server/extensionsCache/zhuangtongfa.material-theme-3.15.2
+[2022-07-31 17:20:45.385] [remoteagent] [info] Downloaded extension: formulahendry.vscode-mysql /root/.vscode-server/extensionsCache/formulahendry.vscode-mysql-0.4.1
+[2022-07-31 17:20:45.521] [remoteagent] [info] Downloaded extension: puppet.puppet-vscode /root/.vscode-server/extensionsCache/puppet.puppet-vscode-1.4.0
+[2022-07-31 17:20:45.872] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-07-31 17:20:45.904] [remoteagent] [info] Downloaded extension: twxs.cmake /root/.vscode-server/extensionsCache/twxs.cmake-0.0.17
+[2022-07-31 17:20:45.907] [remoteagent] [info] Downloaded extension: cschlosser.doxdocgen /root/.vscode-server/extensionsCache/cschlosser.doxdocgen-1.4.0
+[2022-07-31 17:20:46.987] [remoteagent] [info] Downloaded extension: krosf.vscode-valgrind /root/.vscode-server/extensionsCache/krosf.vscode-valgrind-0.0.1
+[2022-07-31 17:20:47.127] [remoteagent] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /root/.vscode-server/extensionsCache/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-07-31 17:20:47.218] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /root/.vscode-server/extensionsCache/ms-azuretools.vscode-docker-1.22.1
+[2022-07-31 17:20:47.461] [remoteagent] [info] Downloaded extension: 076923.python-image-preview /root/.vscode-server/extensionsCache/076923.python-image-preview-0.1.2
+[2022-07-31 17:20:47.653] [remoteagent] [info] Downloaded extension: equinusocio.vsc-material-theme /root/.vscode-server/extensionsCache/equinusocio.vsc-material-theme-33.5.0
+[2022-07-31 17:20:47.704] [remoteagent] [info] Downloaded extension: ms-vscode.cmake-tools /root/.vscode-server/extensionsCache/ms-vscode.cmake-tools-1.11.26
+[2022-07-31 17:20:47.842] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-07-31 17:20:48.025] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.37f49d8f-5da1-4170-ac6f-beba8f29ad43: ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:48.314] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-07-31 17:20:48.455] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-31 17:20:48.589] [remoteagent] [info] Getting Manifest... vadimcn.vscode-lldb
+[2022-07-31 17:20:48.708] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:48.713] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:49.205] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-07-31 17:20:49.343] [remoteagent] [info] Downloaded extension: josetr.cmake-language-support-vscode /root/.vscode-server/extensionsCache/josetr.cmake-language-support-vscode-0.0.4
+[2022-07-31 17:20:49.367] [remoteagent] [info] Downloaded extension: cweijan.vscode-mysql-client2 /root/.vscode-server/extensionsCache/cweijan.vscode-mysql-client2-5.6.7
+[2022-07-31 17:20:49.393] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-renderers-1.0.9
+[2022-07-31 17:20:49.442] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.47cb5caf-7618-4fec-99df-1e076e70c1aa: ms-vscode.cpptools-themes
+[2022-07-31 17:20:49.734] [remoteagent] [info] Getting Manifest... vue.volar
+[2022-07-31 17:20:49.750] [remoteagent] [info] Downloaded extension: chenxsan.vscode-standardjs /root/.vscode-server/extensionsCache/chenxsan.vscode-standardjs-1.4.1
+[2022-07-31 17:20:49.760] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-07-31 17:20:49.768] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.98bf0717-4ffc-41a6-965e-d342c7456a15: krosf.vscode-valgrind
+[2022-07-31 17:20:49.774] [remoteagent] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-07-31 17:20:49.945] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools
+[2022-07-31 17:20:49.947] [remoteagent] [info] Extension is already requested to install vadimcn.vscode-lldb
+[2022-07-31 17:20:50.082] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.12b32bd1-99f1-4350-985b-c045c505257f: vadimcn.vscode-lldb
+[2022-07-31 17:20:50.111] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-07-31 17:20:50.113] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-07-31 17:20:50.253] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-07-31 17:20:50.347] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/krosf.vscode-valgrind-0.0.1
+[2022-07-31 17:20:50.667] [remoteagent] [info] Installing extension: vue.volar
+[2022-07-31 17:20:50.978] [remoteagent] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:51.017] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /root/.vscode-server/extensionsCache/github.vscode-pull-request-github-0.46.1
+[2022-07-31 17:20:51.140] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/vadimcn.vscode-lldb-1.7.3
+[2022-07-31 17:20:51.214] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-07-31 17:20:51.230] [remoteagent] [info] Extracting completed. krosf.vscode-valgrind
+[2022-07-31 17:20:51.235] [remoteagent] [info] Extension installed successfully: krosf.vscode-valgrind
+[2022-07-31 17:20:51.263] [remoteagent] [info] Detected extension removed from another source krosf.vscode-valgrind
+[2022-07-31 17:20:52.090] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-07-31 17:20:52.847] [remoteagent] [info] Extracting completed. vadimcn.vscode-lldb
+[2022-07-31 17:20:52.854] [remoteagent] [info] Extension installed successfully: vadimcn.vscode-lldb
+[2022-07-31 17:20:52.972] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-07-31 17:20:53.215] [remoteagent] [info] Detected extension installed from another source krosf.vscode-valgrind
+[2022-07-31 17:20:54.114] [remoteagent] [info] Downloaded extension: timonwong.shellcheck /root/.vscode-server/extensionsCache/timonwong.shellcheck-0.19.6
+[2022-07-31 17:20:54.136] [remoteagent] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-07-31 17:20:55.777] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /root/.vscode-server/extensionsCache/ms-vscode.cpptools-1.11.4-linux-x64
+[2022-07-31 17:20:55.780] [remoteagent] [info] Downloaded extension: franneck94.c-cpp-runner /root/.vscode-server/extensionsCache/franneck94.c-cpp-runner-4.0.3
+[2022-07-31 17:20:55.890] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter
+[2022-07-31 17:20:55.891] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter-renderers
+[2022-07-31 17:20:55.892] [remoteagent] [info] Extension is already requested to install ms-python.vscode-pylance
+[2022-07-31 17:20:55.893] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.6986de48-a785-4007-a7a5-ec62e81633a0: equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:56.062] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools
+[2022-07-31 17:20:56.065] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-07-31 17:20:56.066] [remoteagent] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2022-07-31 17:20:56.068] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:56.068] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-07-31 17:20:56.238] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/equinusocio.vsc-community-material-theme-1.4.4
+[2022-07-31 17:20:57.045] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.2f24490c-d848-47b2-9957-41592902aa5b: jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:57.073] [remoteagent] [info] Extracting completed. equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:57.077] [remoteagent] [info] Extension installed successfully: equinusocio.vsc-community-material-theme
+[2022-07-31 17:20:58.230] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.19
+[2022-07-31 17:20:58.418] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.91760b66-daca-4210-afdf-1332986333e9: viktorqvarfordt.vscode-pitch-black-theme
+[2022-07-31 17:20:58.636] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-31 17:20:58.824] [remoteagent] [info] Downloaded extension: vue.volar /root/.vscode-server/extensionsCache/vue.volar-0.39.4-linux-x64
+[2022-07-31 17:20:58.845] [remoteagent] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:58.848] [remoteagent] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-07-31 17:20:58.995] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/viktorqvarfordt.vscode-pitch-black-theme-1.3.0
+[2022-07-31 17:21:00.135] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.3e15c92b-f415-4224-ad8a-c4bd1841db9c: github.github-vscode-theme
+[2022-07-31 17:21:00.198] [remoteagent] [info] Extracting completed. viktorqvarfordt.vscode-pitch-black-theme
+[2022-07-31 17:21:00.201] [remoteagent] [info] Extension installed successfully: viktorqvarfordt.vscode-pitch-black-theme
+[2022-07-31 17:21:00.354] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /root/.vscode-server/extensionsCache/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-07-31 17:21:00.774] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/github.github-vscode-theme-6.3.2
+[2022-07-31 17:21:00.953] [remoteagent] [info] Extracting completed. github.github-vscode-theme
+[2022-07-31 17:21:00.962] [remoteagent] [info] Extension installed successfully: github.github-vscode-theme
+[2022-07-31 17:21:01.763] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-07-31 17:21:02.572] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-07-31 17:21:02.711] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a430cf15-f9bc-4989-9f0d-f8a2f36a805e: ms-vscode.cpptools-extension-pack
+[2022-07-31 17:21:02.872] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-07-31 17:21:02.972] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-07-31 17:21:02.975] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-07-31 17:21:04.938] [remoteagent] [info] Downloaded extension: ms-python.python /root/.vscode-server/extensionsCache/ms-python.python-2022.10.1
+[2022-07-31 17:21:05.542] [remoteagent] [info] Extension is already requested to install ms-python.python
+[2022-07-31 17:21:05.543] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter
+[2022-07-31 17:21:05.545] [remoteagent] [info] Extension is already requested to install ms-toolsai.jupyter-renderers
+[2022-07-31 17:21:16.134] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /root/.vscode-server/extensionsCache/ms-python.vscode-pylance-2022.7.40
+[2022-07-31 17:21:18.779] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.0030c880-790d-4d3f-96ef-b1f4f151fa6b: ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:21:19.202] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-1.5.0
+[2022-07-31 17:21:19.604] [remoteagent] [info] Extracting completed. ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:21:19.605] [remoteagent] [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+[2022-07-31 17:21:23.916] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.08be87c8-db91-4578-a9eb-20fffdc920ec: github.copilot-nightly
+[2022-07-31 17:21:24.362] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.530f55c1-41a4-4a01-84c7-beae0e7a81ff: github.vscode-pull-request-github
+[2022-07-31 17:21:24.406] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/github.copilot-nightly-1.36.6347
+[2022-07-31 17:21:24.537] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.2bf795b9-6bf6-4f4d-b16d-ee4b97c81679: josetr.cmake-language-support-vscode
+[2022-07-31 17:21:24.543] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/github.vscode-pull-request-github-0.46.1
+[2022-07-31 17:21:24.573] [remoteagent] [info] Extracting completed. github.copilot-nightly
+[2022-07-31 17:21:24.575] [remoteagent] [info] Extension installed successfully: github.copilot-nightly
+[2022-07-31 17:21:24.873] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-07-31 17:21:24.877] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-07-31 17:21:24.910] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.2cfc251f-0242-4256-91e7-5a916736ba11: github.copilot
+[2022-07-31 17:21:24.935] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/josetr.cmake-language-support-vscode-0.0.4
+[2022-07-31 17:21:26.328] [remoteagent] [info] Extracting completed. josetr.cmake-language-support-vscode
+[2022-07-31 17:21:26.329] [remoteagent] [info] Extension installed successfully: josetr.cmake-language-support-vscode
+[2022-07-31 17:21:26.504] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/github.copilot-1.36.6340
+[2022-07-31 17:21:26.906] [remoteagent] [info] Extracting completed. github.copilot
+[2022-07-31 17:21:26.913] [remoteagent] [info] Extension installed successfully: github.copilot
+[2022-07-31 17:21:32.635] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.282b34f1-0fe9-4a4d-ac6c-15e7838f5b5d: equinusocio.vsc-material-theme
+[2022-07-31 17:21:32.657] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a98d0cab-824f-4060-8e96-d8432b79f605: 076923.python-image-preview
+[2022-07-31 17:21:32.729] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/equinusocio.vsc-material-theme-33.5.0
+[2022-07-31 17:21:32.747] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/076923.python-image-preview-0.1.2
+[2022-07-31 17:21:32.825] [remoteagent] [info] Extracting completed. equinusocio.vsc-material-theme
+[2022-07-31 17:21:32.829] [remoteagent] [info] Extension installed successfully: equinusocio.vsc-material-theme
+[2022-07-31 17:21:32.848] [remoteagent] [info] Extracting completed. 076923.python-image-preview
+[2022-07-31 17:21:32.849] [remoteagent] [info] Extension installed successfully: 076923.python-image-preview
+[2022-07-31 17:21:32.895] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.30964221-0fe6-4a8e-a27b-52a3b8dce8b6: zhuangtongfa.material-theme
+[2022-07-31 17:21:33.003] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.5c04a903-9a05-44fd-9f33-b24eed5b277b: vue.volar
+[2022-07-31 17:21:34.555] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/zhuangtongfa.material-theme-3.15.2
+[2022-07-31 17:21:34.603] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64
+[2022-07-31 17:21:35.059] [remoteagent] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-07-31 17:21:35.061] [remoteagent] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-07-31 17:21:35.144] [remoteagent] [info] Extracting completed. vue.volar
+[2022-07-31 17:21:35.165] [remoteagent] [info] Extension installed successfully: vue.volar
+[2022-07-31 17:21:35.966] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a6704fd5-407f-4e1f-9f2e-6ecbc97903ba: franneck94.c-cpp-runner
+[2022-07-31 17:21:36.466] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/franneck94.c-cpp-runner-4.0.3
+[2022-07-31 17:21:36.634] [remoteagent] [info] Extracting completed. franneck94.c-cpp-runner
+[2022-07-31 17:21:36.637] [remoteagent] [info] Extension installed successfully: franneck94.c-cpp-runner
+[2022-07-31 17:21:40.575] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.c64dd5de-7793-4b60-9e7a-87e20c9014a9: ms-azuretools.vscode-docker
+[2022-07-31 17:21:41.474] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-07-31 17:21:42.213] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-07-31 17:21:42.217] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-07-31 17:21:49.542] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.848d215c-c298-482c-a57c-792de6da67c9: formulahendry.code-runner
+[2022-07-31 17:21:49.629] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/formulahendry.code-runner-0.11.8
+[2022-07-31 17:21:49.734] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2022-07-31 17:21:49.739] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2022-07-31 17:21:51.494] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.8d387893-d865-4c03-8ff6-3c4532bd1d56: twxs.cmake
+[2022-07-31 17:21:51.969] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/twxs.cmake-0.0.17
+[2022-07-31 17:21:52.155] [remoteagent] [info] Extracting completed. twxs.cmake
+[2022-07-31 17:21:52.159] [remoteagent] [info] Extension installed successfully: twxs.cmake
+[2022-07-31 17:21:52.432] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.e1128f4c-0094-4ed6-b5ad-6308b00145ab: ms-vscode.cmake-tools
+[2022-07-31 17:21:52.940] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-vscode.cmake-tools-1.11.26
+[2022-07-31 17:21:53.149] [remoteagent] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-07-31 17:21:53.151] [remoteagent] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-07-31 17:21:56.315] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a54f5ba5-eb51-4e63-be94-2679de188a3b: ms-toolsai.jupyter-renderers
+[2022-07-31 17:21:56.554] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-07-31 17:21:56.652] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-07-31 17:22:01.259] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-2022.6.1201981810
+[2022-07-31 17:22:21.336] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.12cb0fdc-2306-417c-8ae5-631142a5717d: formulahendry.vscode-mysql
+[2022-07-31 17:22:21.387] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/formulahendry.vscode-mysql-0.4.1
+[2022-07-31 17:22:21.448] [remoteagent] [info] Extracting completed. formulahendry.vscode-mysql
+[2022-07-31 17:22:21.452] [remoteagent] [info] Extension installed successfully: formulahendry.vscode-mysql
+[2022-07-31 17:22:25.086] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.9f837f7a-eaec-4137-8667-061cdf733c7e: cweijan.vscode-mysql-client2
+[2022-07-31 17:22:25.185] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/cweijan.vscode-mysql-client2-5.6.7
+[2022-07-31 17:22:25.259] [remoteagent] [info] Extracting completed. cweijan.vscode-mysql-client2
+[2022-07-31 17:22:25.262] [remoteagent] [info] Extension installed successfully: cweijan.vscode-mysql-client2
+[2022-07-31 17:22:32.614] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 17:22:44.368] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.906757fa-ab02-445d-861d-78176431268b: timonwong.shellcheck
+[2022-07-31 17:22:44.884] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/timonwong.shellcheck-0.19.6
+[2022-07-31 17:22:45.073] [remoteagent] [info] Extracting completed. timonwong.shellcheck
+[2022-07-31 17:22:45.079] [remoteagent] [info] Extension installed successfully: timonwong.shellcheck
+[2022-07-31 17:22:56.038] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.6b71ff73-e280-4b32-9bc4-7c491a3196e1: ms-toolsai.jupyter
+[2022-07-31 17:22:56.106] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.6.1201981810
+[2022-07-31 17:22:56.194] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-07-31 17:22:56.197] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-07-31 17:22:56.199] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-07-31 17:22:58.385] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.41aaa781-0ddf-4d04-929c-ac145e6a7fac: cschlosser.doxdocgen
+[2022-07-31 17:22:58.728] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/cschlosser.doxdocgen-1.4.0
+[2022-07-31 17:22:59.137] [remoteagent] [info] Extracting completed. cschlosser.doxdocgen
+[2022-07-31 17:22:59.137] [remoteagent] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-07-31 17:23:01.190] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 17:23:14.926] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.2fd2cbea-018f-451e-bb59-8823f352d6f7: puppet.puppet-vscode
+[2022-07-31 17:23:15.185] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/puppet.puppet-vscode-1.4.0
+[2022-07-31 17:23:15.441] [remoteagent] [info] Extracting completed. puppet.puppet-vscode
+[2022-07-31 17:23:15.442] [remoteagent] [info] Extension installed successfully: puppet.puppet-vscode
+[2022-07-31 17:23:24.379] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.b6f93351-3abe-4693-9e7c-41cb4568cddc: chenxsan.vscode-standardjs
+[2022-07-31 17:23:24.433] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/chenxsan.vscode-standardjs-1.4.1
+[2022-07-31 17:23:24.461] [remoteagent] [info] Extracting completed. chenxsan.vscode-standardjs
+[2022-07-31 17:23:24.462] [remoteagent] [info] Extension installed successfully: chenxsan.vscode-standardjs
+[2022-07-31 17:23:38.704] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.d7e8293f-c446-44b5-839f-ee6aabb458ba: ms-vscode.cpptools
+[2022-07-31 17:23:39.283] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-vscode.cpptools-1.11.4-linux-x64
+[2022-07-31 17:23:39.456] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-07-31 17:23:39.460] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-07-31 17:23:44.357] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a064d73d-0976-40bc-9953-60b378f3eb60: ms-python.python
+[2022-07-31 17:23:44.515] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2022.10.1
+[2022-07-31 17:23:44.573] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-07-31 17:23:44.577] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-07-31 17:23:56.364] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.35bd19f9-69b9-4c2a-a0f9-bc4779d5718a: equinusocio.vsc-material-theme-icons
+[2022-07-31 17:23:56.380] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-07-31 17:23:56.387] [remoteagent] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-07-31 17:23:56.390] [remoteagent] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+[2022-07-31 17:24:04.696] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.6aa05c56-6c23-4c27-8e6c-3c2cd4ea3bfb: ms-python.vscode-pylance
+[2022-07-31 17:24:04.715] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.7.40
+[2022-07-31 17:24:04.725] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-07-31 17:24:04.726] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-07-31 18:10:06.016] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 18:14:30.610] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:14:39.877] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-07-31 18:14:39.890] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-07-31 18:18:33.380] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:22:41.136] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 18:24:43.680] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-31 18:25:15.977] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 18:26:35.866] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 18:26:37.770] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 18:31:35.600] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-07-31 18:31:35.600] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-07-31 18:37:56.577] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:39:42.422] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:39:42.498] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:39:54.002] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:40:11.395] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:40:50.502] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8081
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:41:16.288] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8081
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:41:16.423] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8081
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:41:39.488] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8081
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 18:44:20.927] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 19:02:46.301] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-31 19:09:09.699] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /root)
+[2022-07-31 19:09:09.701] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-07-31 19:09:23.846] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 19:11:40.439] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-31 19:11:40.456] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-07-31 19:11:48.872] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 19:12:01.708] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 19:12:16.347] [remoteagent] [info] [127.0.0.1][d1351523][ExtensionHostConnection] <248> Extension Host Process exited with code: 0, signal: null.
+[2022-07-31 19:12:24.299] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-07-31 19:12:24.347] [remoteagent] [info] [127.0.0.1][76a3dce8][ManagementConnection] New connection established.
+[2022-07-31 19:12:36.482] [remoteagent] [info] [127.0.0.1][4422d493][ExtensionHostConnection] New connection established.
+[2022-07-31 19:12:37.116] [remoteagent] [info] [127.0.0.1][4422d493][ExtensionHostConnection] <15307> Launched Extension Host Process.
+[2022-07-31 19:12:40.517] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-31 19:13:33.861] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)

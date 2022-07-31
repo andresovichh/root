@@ -1,0 +1,35 @@
+/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:40936
+        var rootExpression = (_a = sourceFile.statements[0]) === null || _a === void 0 ? void 0 : _a.expression;
+                                                        ^
+
+TypeError: Cannot read properties of undefined (reading '0')
+    at convertConfigFileToObject (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:40936:57)
+    at parseOwnConfigOfJsonSourceFile (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41756:20)
+    at parseConfig (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41652:13)
+    at parseJsonConfigFileContentWorker (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41471:28)
+    at Object.parseJsonSourceFileConfigFileContent (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41436:22)
+    at Object.aZ [as createParsedCommandLine] (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:559:6504)
+    at C (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:21774)
+    at Object.<anonymous> (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:20113)
+    at Generator.next (<anonymous>)
+    at /root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:18344
+[Info  - 6:17:25 PM] Connection to server got closed. Server will restart.
+/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:40936
+        var rootExpression = (_a = sourceFile.statements[0]) === null || _a === void 0 ? void 0 : _a.expression;
+                                                        ^
+
+TypeError: Cannot read properties of undefined (reading '0')
+    at convertConfigFileToObject (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:40936:57)
+    at parseOwnConfigOfJsonSourceFile (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41756:20)
+    at parseConfig (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41652:13)
+    at parseJsonConfigFileContentWorker (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41471:28)
+    at Object.parseJsonSourceFileConfigFileContent (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/node_modules/typescript/lib/typescript.js:41436:22)
+    at Object.aZ [as createParsedCommandLine] (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:559:6504)
+    at C (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:21774)
+    at Object.<anonymous> (/root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:20113)
+    at Generator.next (<anonymous>)
+    at /root/.vscode-server/extensions/vue.volar-0.39.4-linux-x64/dist/node/server.js:1268:18344
+[Info  - 6:33:08 PM] Connection to server got closed. Server will restart.
+[Error - 6:44:26 PM] Request textDocument/inlayHint failed.
+  Message: Request textDocument/inlayHint failed with message: Could not find source file: '/root/vue-sandbox/src/components/HeaderBar.vue.ts'.
+  Code: -32603 

@@ -81,3 +81,46 @@ mysql --version
 mysql -u root -p
 mysql -h 127.0.0.1 -P 3306 --protocol=tcp -u root -p
 mysql -h 172.17.0.6 -P 3306 --protocol=tcp -u root -p
+mysql -h 172.17.0.1 -P 3306 --protocol=tcp -u root -p
+npm i -g @vue/cli
+npm audit fix --force
+vue --version
+create vue sandweb
+vue create sandweb
+cd sandweb
+npm run serve
+ls
+cd..
+cd ..
+ls
+cd
+ls
+vue create vue-sandbox
+npm run serve
+ls
+cd src/
+npm run serve
+ls
+cd ..
+cd vue-sandbox/
+npm run serve
+cd ..
+ls
+cd vue-sandbox/
+npm install bootstrap bootstrap-vue
+npm install axios
+npm run dev
+npm i dotenv
+npm run dev
+ls
+cd vue-sandbox/
+npm install bootstrap bootstrap-vue
+ls
+cd ..
+ls
+cd
+ls
+vue create vue-sanbox
+vue create vue-sandbox
+cd vue-sandbox/
+npm run serve
