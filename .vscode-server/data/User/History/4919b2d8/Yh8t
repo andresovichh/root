@@ -1,0 +1,5 @@
+HOST=localhost
+DATABASE=tutorial_list
+USER=root
+PASSWORD=92831942
+PORT=3306

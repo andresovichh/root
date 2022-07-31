@@ -1,0 +1,20 @@
+[2022-07-31 12:11:32.900] [remoteagent] [info] Extension host agent started.
+[2022-07-31 12:11:33.904] [remoteagent] [info] [127.0.0.1][6d989779][ManagementConnection] New connection established.
+[2022-07-31 12:11:34.649] [remoteagent] [info] [127.0.0.1][d1351523][ExtensionHostConnection] New connection established.
+[2022-07-31 12:11:34.697] [remoteagent] [info] [127.0.0.1][d1351523][ExtensionHostConnection] <248> Launched Extension Host Process.
+[2022-07-31 12:48:28.139] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 12:48:28.283] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 12:49:13.087] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 12:49:13.170] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 12:55:37.200] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 12:55:37.288] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 14:36:32.439] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-31 14:44:59.746] [remoteagent] [error] Error: connect ECONNREFUSED 127.0.0.1:4000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)

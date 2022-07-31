@@ -1,0 +1,1 @@
+create table tutorial_list (id INT AUTO_INCREMENT PRIMARY KEY, Title Varchar(200) NOT NULL, Video_Url VARCHAR(300), Description VARCHAR(1000), Published_Status TINYINT NOT NULL, Deleted_At DATETIME);
