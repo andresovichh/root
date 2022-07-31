@@ -22,3 +22,25 @@
 [2022-07-31 19:13:31.881] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
 [2022-07-31 19:13:37.639] [exthost] [info] Eager extensions activated
 [2022-07-31 19:27:33.704] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 19:28:17.210] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-07-31 19:29:43.689] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-31 19:29:43.697] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/86c01fb9d4a9c4a31eb0db3acffbbe78/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-31 19:29:45.172] [exthost] [error] Canceled: Canceled
+    at new y (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:85:41560)
+    at s._remoteCall (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:13765)
+    at Proxy.k.<computed>.U.charCodeAt.k.<computed> (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:10308)
+    at D.showMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:87:89535)
+    at Object.showErrorMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:106:41593)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/git/dist/main.js:2:1034408
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at o._executeContributedCommand (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:85:62863) git.ignore {"value":"vscode.git","_lower":"vscode.git"}
+[2022-07-31 19:29:45.175] [exthost] [error] Canceled: Canceled
+    at new y (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:85:41560)
+    at s._remoteCall (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:13765)
+    at Proxy.k.<computed>.U.charCodeAt.k.<computed> (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:95:10308)
+    at D.showMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:87:89535)
+    at Object.showErrorMessage (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:106:41593)
+    at /root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/extensions/git/dist/main.js:2:1034408
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at o._executeContributedCommand (/root/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/workbench/api/node/extensionHostProcess.js:85:62863) git.ignore {"value":"vscode.git","_lower":"vscode.git"}
+[2022-07-31 19:29:45.255] [exthost] [info] Extension host with pid 15307 exiting with code 0

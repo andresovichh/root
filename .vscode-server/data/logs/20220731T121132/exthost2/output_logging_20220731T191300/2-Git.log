@@ -42,3 +42,39 @@
 [2022-07-31T19:28:16.895Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [139ms]
 [2022-07-31T19:28:17.031Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [87ms]
 [2022-07-31T19:28:17.033Z] > git remote --verbose [32ms]
+[2022-07-31T19:28:19.486Z] > git add -A -- . [4067ms]
+[2022-07-31T19:28:20.011Z] > git config --get commit.template [1690ms]
+[2022-07-31T19:28:25.442Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [5528ms]
+[2022-07-31T19:28:25.442Z] warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-07-31T19:28:25.717Z] > git check-ignore -v -z --stdin [540ms]
+[2022-07-31T19:28:25.939Z] > git status -z -uall [5561ms]
+[2022-07-31T19:28:26.050Z] > git symbolic-ref --short HEAD [60ms]
+[2022-07-31T19:28:26.100Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+[2022-07-31T19:28:26.196Z] > git remote --verbose [8ms]
+[2022-07-31T19:28:26.197Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [57ms]
+[2022-07-31T19:28:26.764Z] > git fetch sand [5060ms]
+[2022-07-31T19:28:26.764Z] From https://github.com/andresovichh/root
+ * [new branch]      master     -> sand/master
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-07-31T19:28:26.775Z] > git config --local branch.master.github-pr-owner-number [68ms]
+[2022-07-31T19:28:26.818Z] > git config --get commit.template [247ms]
+[2022-07-31T19:28:29.473Z] > git status -z -uall [2551ms]
+[2022-07-31T19:28:29.826Z] > git symbolic-ref --short HEAD [48ms]
+[2022-07-31T19:28:30.289Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [58ms]
+[2022-07-31T19:28:31.167Z] > git remote --verbose [43ms]
+[2022-07-31T19:28:31.204Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [451ms]
+[2022-07-31T19:28:31.506Z] > git config --get commit.template [21ms]
+[2022-07-31T19:28:31.576Z] > git config --get commit.template [3ms]
+[2022-07-31T19:28:37.089Z] > git show --textconv HEAD:.vscode-server/data/logs/20220731T121132/remoteagent.log [552ms]
+[2022-07-31T19:28:37.182Z] > git ls-tree -l HEAD -- /root/.vscode-server/data/logs/20220731T121132/remoteagent.log [187ms]
+[2022-07-31T19:28:37.982Z] > git check-ignore -v -z --stdin [122ms]

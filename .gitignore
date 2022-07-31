@@ -1,2 +1,3 @@
 /.env
-.vscode-server/data/logs/20220731T121132/exthost1/output_logging_20220731T121138/2-Git.log
+.vscode-server/
+node_modules/

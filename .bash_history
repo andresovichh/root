@@ -124,3 +124,15 @@ vue create vue-sanbox
 vue create vue-sandbox
 cd vue-sandbox/
 npm run serve
+git status
+git add .
+git commit -m "all files"
+git prune
+git add .
+git commit -m "all files"
+git push
+ls
+git add node_modules/*
+git commit -m "modules"
+ls
+ls
